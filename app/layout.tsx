@@ -7,8 +7,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Photosnap',
-  description: 'Photosnap',
+  title: 'Photosnap Multi-Page Website',
+  description: 'This is a multi-page website for Photosnap',
 };
 
 export default function RootLayout({
