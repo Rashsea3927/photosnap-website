@@ -1,1 +1,7 @@
 @import 'tailwindcss';
+
+@layer components {
+  .heading-sm {
+    @apply text-[15px] leading-[1.67] font-bold tracking-[2.5px] uppercase;
+  }
+}
